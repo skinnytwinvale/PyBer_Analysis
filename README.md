@@ -13,7 +13,7 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
 
 ## Resources and Before Start Notes:
 
-* Data Source: `PyBer_Challenge_starter_code.ipynb` named later as `PyBer_Challenge.ipynb`
+* Data Source: `PyBer_Challenge_starter_code.ipynb` named later as `PyBer_Challenge.ipynb` 
 * Data File: file.csv
 * Software: Matplotli 3.2.2, Python 3.9, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4, Pandas
 
