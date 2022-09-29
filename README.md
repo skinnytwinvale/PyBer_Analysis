@@ -9,7 +9,7 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
 
 1. ***Deliverable 1***: A ride-sharing summary DataFrame by city type
 2. ***Deliverable 2***: A multiple-line chart of total fares for each city type
-3. ***Deliverable 3***: A written report for the PyBer analysis [`README.md`](https://github.com/emmanuelmartinezs/PyBer_Analysis). 
+3. ***Deliverable 3***: A written report for the PyBer analysis [`README.md`](https://github.com/emmanuelmartinezs/PyBer_Analysis).  
 
 ## Resources and Before Start Notes:
 
