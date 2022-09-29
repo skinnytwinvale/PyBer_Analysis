@@ -7,7 +7,7 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
 
 > Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
-1. ***Deliverable 1***: A ride-sharing summary DataFrame by city type
+1. ***Deliverable 1***: A ride-sharing summary DataFrame by city type 
 2. ***Deliverable 2***: A multiple-line chart of total fares for each city type
 3. ***Deliverable 3***: A written report for the PyBer analysis [`README.md`](https://github.com/emmanuelmartinezs/PyBer_Analysis).  
 
