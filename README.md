@@ -244,7 +244,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
     ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/2.5.PNG?raw=true)
 
      > PyBer Ride-Sharing Data (2019), 
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true)      
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true)       
 
 3. **Summary** 
 * Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types:
