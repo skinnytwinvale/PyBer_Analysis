@@ -142,7 +142,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.4.PNG?raw=true)
 
 **5. The average fare per driver for each city type is calculated.**
-
+ 
 > Image with `Jupyter Notebook` & `Python` Code below.
 
 **Code and Image**
