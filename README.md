@@ -9,7 +9,7 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
 
 1. ***Deliverable 1***: A ride-sharing summary DataFrame by city type  
 2. ***Deliverable 2***: A multiple-line chart of total fares for each city type
-3. ***Deliverable 3***: A written report for the PyBer analysis [`README.md`](https://github.com/emmanuelmartinezs/PyBer_Analysis).   
+3. ***Deliverable 3***: A written report for the PyBer analysis [`README.md`]
 
 ## Resources and Before Start Notes:
 
@@ -212,13 +212,6 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/2.4.PNG?raw=true)
 
 **5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/2.5.PNG?raw=true)
-
 
 
 ## Deliverable 3: A written report for the PyBer Analysis
